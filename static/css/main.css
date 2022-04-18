@@ -1,0 +1,20 @@
+#logo{
+}
+
+body{
+    background-color: #ebeff5;
+} /* Màu nền */
+
+
+#total-orders{   
+    background-color: #4cb4c7;
+} /* Đổi màu cho ô total-orders bên status.html*/
+
+
+#orders-delivered{
+    background-color: #7abecc;
+} /* Đổi màu cho ô orders-delivered bên status.html*/
+
+#orders-pending{
+    background-color: #7CD1C0;
+} /* Đổi màu cho ô orders-pending bên status.html*/
