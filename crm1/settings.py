@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ia3$1-g5onektyq1e^5d6rnp55wlw8$@%&p_loiqyo4n)^f5i^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['midterm-se.herokuapp.com']
+ALLOWED_HOSTS = ['han-crmlive-cli.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
