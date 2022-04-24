@@ -135,12 +135,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'static/images')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-
-
-with open('./crm1/email.txt','r') as email:
-    name = email.readline().strip()
-    password = email.readline().strip()
-
 # SMTP Configuration
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
